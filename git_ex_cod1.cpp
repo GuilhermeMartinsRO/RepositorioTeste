@@ -4,6 +4,7 @@ using namespace std;
 int main (){
 
     cout << "Segundo commit, modificando para ver como o gitlog funciona" << endl;
+    cout << "Nova modificação" << endl;
 
     return 0;
 }
